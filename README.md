@@ -4,7 +4,7 @@
 ## 🕹️ About Me
 
 - 🎮 성실하게 나아가는 **게임 클라이언트 프로그래머** 입니다.
-- ⚔️ **DirectX12**, **Unreal Engine**, **Unity** 를 활용한 게임 개발을 경험해왔습니다.
+- ⚔️ **DirectX12**, **Cocos2d-x**, **Unreal Engine**, **Unity** 를 활용한 게임 개발을 경험해왔습니다.
 - 🔧 클라이언트 개발부터 서버 연동(Overlapped I/O)까지 담당 하였습니다.
 - 📚 회사에서의 경험과 별개로 꾸준히 토이 프로젝트를 진행하며 경험을 쌓아가고 있습니다.
 
@@ -55,7 +55,7 @@ Unreal Engine5 을 활용해 게임 메카닉과 시스템을 실험하는 개�
 ### 🎮 [UPlayground_Unity](https://github.com/scoke0801/UPlayground_Unity)
 > 유니티 엔진 토이 프로젝트 — `C#` `Unity`
 
-- Unity 엔진으로 다양한 게임 구조와 패턴을 탐구하는 프로젝트입니다.
+Unity 엔진으로 다양한 게임 구조와 패턴을 탐구하는 프로젝트입니다.
 - ScriptableObject 기반 데이터 드리븐 설계
 - 계층적 액터 시스템 + 싱글턴 매니저 패턴
 - Animancer v8 AnimationClip → Montage → MotionSet 커스텀 애니메이션 시스템
