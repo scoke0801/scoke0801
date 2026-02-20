@@ -1,4 +1,3 @@
-
 # 안녕하세요, 게임 클라이언트 프로그래머 종현입니다 👋
 
 > *"재미있는 게임을 만들기 위해 오늘도 코드를 씁니다."*
@@ -10,7 +9,7 @@
 - ⚔️ **DirectX12**, **Unreal Engine**, **Unity** 를 활용한 게임 개발을 경험해왔습니다.
 - 🔧 클라이언트 개발부터 서버 연동(Overlapped I/O)까지 담당 하였습니다.
 - 📚 회사에서의 경험과 별개로 꾸준히 토이 프로젝트를 진행하며 경험을 쌓아가고 있습니다.
-- 
+
 ## 💼 Career
 
 | 기간 | 엔진 | 장르 |
@@ -81,17 +80,5 @@ Overlapped I/O 비동기 멀티플레이어 서버
 > KPU 방학 과제전 출품작 — `C++` `WinAPI`
 
 파랜드택틱스 모작 프로젝트로, WinAPI만을 이용해 턴제 전략 게임을 구현했습니다.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![scoke0801's GitHub stats](https://github-readme-stats.vercel.app/api?username=scoke0801&show_icons=true&theme=dark&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scoke0801&layout=compact&theme=dark&hide_border=true)
-
-</div>
 
 ---
