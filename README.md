@@ -46,22 +46,22 @@
 > 언리얼 엔진 토이 프로젝트 — `C++` `Unreal Engine`
 
 Unreal Engine5 을 활용해 게임 메카닉과 시스템을 실험하는 개인 학습 프로젝트입니다.
-3D 타워 등반 로그라이크 액션 RPG
+- 3D 타워 등반 로그라이크 액션 RPG
+- 8개 전문 모듈 분리 (PGAbilitySystem, PGActor, PGAI, PGUI, PGMessage 등)
+- GAS 기반 스킬 시스템 (근접 / 투사체 / AoE / 힐)
+- 메시지 서브시스템 통한 모듈 간 느슨한 결합
+- 오브젝트 풀링, 데이터 테이블 기반 Data-Driven 설계
 
-8개 전문 모듈 분리 (PGAbilitySystem, PGActor, PGAI, PGUI, PGMessage 등)
-GAS 기반 스킬 시스템 (근접 / 투사체 / AoE / 힐)
-메시지 서브시스템 통한 모듈 간 느슨한 결합
-오브젝트 풀링, 데이터 테이블 기반 Data-Driven 설계
 ---
 
 ### 🎮 [UPlayground_Unity](https://github.com/scoke0801/UPlayground_Unity)
 > 유니티 엔진 토이 프로젝트 — `C#` `Unity`
 
-Unity 엔진으로 다양한 게임 구조와 패턴을 탐구하는 프로젝트입니다.
-ScriptableObject 기반 데이터 드리븐 설계
-계층적 액터 시스템 + 싱글턴 매니저 패턴
-Animancer v8 AnimationClip → Montage → MotionSet 커스텀 애니메이션 시스템
-LockOn, Dash, AOE, HitStop 전투 연출 / 커스텀 에디터 툴
+- Unity 엔진으로 다양한 게임 구조와 패턴을 탐구하는 프로젝트입니다.
+- ScriptableObject 기반 데이터 드리븐 설계
+- 계층적 액터 시스템 + 싱글턴 매니저 패턴
+- Animancer v8 AnimationClip → Montage → MotionSet 커스텀 애니메이션 시스템
+- LockOn, Dash, AOE, HitStop 전투 연출 / 커스텀 에디터 툴
 ---
 
 ### ⚔️ [GiantSlayer](https://github.com/scoke0801/GiantSlayer)
@@ -70,10 +70,9 @@ LockOn, Dash, AOE, HitStop 전투 연출 / 커스텀 에디터 툴
 - **클라이언트**: DirectX 12 기반 렌더링
 - **서버**: Overlapped I/O 방식의 네트워크 서버 구현
 - 클라이언트-서버 구조의 멀티플레이 게임 프로젝트
-- 
-DirectX 12 직접 구현 (노멀 맵핑, 섀도우, 테셀레이션, FBX 애니메이션)
-Overlapped I/O 비동기 멀티플레이어 서버
-드로우콜 최적화, 64bit 아키텍처 전환
+- DirectX 12 직접 구현 (노멀 맵핑, 섀도우, 테셀레이션, FBX 애니메이션)
+- Overlapped I/O 비동기 멀티플레이어 서버
+- 드로우콜 최적화, 64bit 아키텍처 전환
 
 ---
 ### 🗡️ [FalandTactics](https://github.com/scoke0801/FalandTactics)
